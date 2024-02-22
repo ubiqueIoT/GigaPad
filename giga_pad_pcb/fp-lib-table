@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "giga_pad_library")(type "KiCad")(uri "${KIPRJMOD}/giga_pad_library.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "giga_pad_symbols")(type "KiCad")(uri "${KIPRJMOD}/giga_pad_symbols.kicad_sym")(options "")(descr ""))
+)
