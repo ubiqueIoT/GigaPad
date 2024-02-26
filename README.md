@@ -1,4 +1,4 @@
-# The GigaPad Macropad based on ZMK
+# GigaPad: A Wireless Macropad based on ZMK
 [ZMK Configuration](https://github.com/ubiqueIoT/zmk-config-gigapad)
 
 
