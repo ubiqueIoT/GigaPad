@@ -9,3 +9,5 @@
 <img width="500" alt="gigapad-pcb-bottom" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/0125aafd-ac2f-49f7-af15-5ba896c37de1">
 </br>
 <img width="500" alt="gigapad-pcb-top" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/c1f55be4-f268-42ff-a9c0-2012768c6a15">
+</br>
+<img width="500" alt="gigapad-schematic-screenshot" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/c0a9c040-daee-40cb-ab53-096773ab8201">
