@@ -17,11 +17,11 @@ A full write up about the configuration: [Gigapad write up](https://ubiqueiot.co
 | [Self tapping screws](https://www.mcmaster.com/catalog/130/3420/90380A344) | 4 |
 | [Rubber feet](https://amzn.to/3T9w9XM) | 4 |
 
-<img width="500" alt="gigapad-inside" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/1262bec4-30f9-432a-b73d-508c6c214457">
+<img width="500" alt="gigapad-inside" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/b9ec0938-3978-453a-aeab-764d04ff27a0">
 </br>
 The battery should be soldered to the pads on the bottom of the XIAO module BEFORE mounting it to the PCB. Once the module is soldered in place on the PCB, you will **not** be able to access the battery pads again. Be careful with bare battery leads!
 </br>
-<img width="500" alt="gigapad-schematic-screenshot" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/1262bec4-30f9-432a-b73d-508c6c214457">
+<img width="500" alt="gigapad-schematic-screenshot" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/08cb3395-a531-4767-81b1-83e772de156c">
 </br>
 <img width="500" alt="gigapad-pcb-bottom" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/d3ab8591-88a8-4774-8ebf-7b9401d5844f">
 </br>
