@@ -25,6 +25,6 @@ The battery should be soldered to the pads on the bottom of the XIAO module BEFO
 </br>
 <img width="500" alt="gigapad-pcb-bottom" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/d3ab8591-88a8-4774-8ebf-7b9401d5844f">
 </br>
-<img width="500" alt="gigapad-pcb-top" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/c1f55be4-f268-42ff-a9c0-2012768c6a15">
+<img width="500" alt="gigapad-pcb-top" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/4363a976-80fa-4c6d-bb84-a27a7d785ee8">
 </br>
 <img width="500" alt="gigapad-schematic-screenshot" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/c0a9c040-daee-40cb-ab53-096773ab8201">
