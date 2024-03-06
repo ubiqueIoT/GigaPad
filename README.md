@@ -17,9 +17,9 @@ A full write up about the configuration: [Gigapad write up](https://ubiqueiot.co
 | [Self tapping screws](https://www.mcmaster.com/catalog/130/3420/90380A344) | 4 |
 | [Rubber feet](https://amzn.to/3T9w9XM) | 4 |
 
-<img width="500" alt="gigapad-cad" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/59dac0b4-4563-48e2-9a0e-661e131de27c">
+<img width="500" alt="gigapad-cad" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/1971b093-220a-4009-b9e6-4d18595e211b">
 </br>
-<img width="500" alt="gigapad-pcb-bottom" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/0125aafd-ac2f-49f7-af15-5ba896c37de1">
+<img width="500" alt="gigapad-pcb-bottom" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/d3ab8591-88a8-4774-8ebf-7b9401d5844f">
 </br>
 <img width="500" alt="gigapad-pcb-top" src="https://github.com/ubiqueIoT/GigaPad/assets/8181497/c1f55be4-f268-42ff-a9c0-2012768c6a15">
 </br>
